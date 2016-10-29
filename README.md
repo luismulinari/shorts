@@ -1,2 +1,2 @@
 # shorts
-Scalable URL shortener sysmtem
+Scalable URL shortener system
